@@ -1,0 +1,6 @@
+{
+  "server_name": "my-aws-server",
+  "port": 8080,
+  "debug_mode": true,
+  "allowed_users": ["admin", "yaman"]
+}
